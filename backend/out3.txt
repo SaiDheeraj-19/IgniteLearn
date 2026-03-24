@@ -1,0 +1,156 @@
+Testing Firebase...
+✅ Firebase Admin SDK initialized
+Firebase works!
+Testing Gemini...
+=== GEMINI OUTPUT ===
+FINISH REASON: STOP
+```json
+{
+  "careers": [
+    {
+      "title": "Digital Marketing Assistant",
+      "matchPercent": 85,
+      "description": "Help businesses promote themselves online using social media, ads, and websites. You'll learn how to reach customers and grow a brand in the digital world.",
+      "avgSalary": "₹10,000 - ₹20,000 per month (starting)",
+      "skills": [
+        "Social Media Management",
+        "Content Creation",
+        "Basic Analytics",
+        "Communication",
+        "Computer Basics"
+      ]
+    },
+    {
+      "title": "Basic Web Designer (using WordPress)",
+      "matchPercent": 80,
+      "description": "Create simple websites for small businesses or individuals using easy-to-use tools like WordPress. You'll help them have an online presence and reach more people.",
+      "avgSalary": "₹12,000 - ₹25,000 per month (starting)",
+      "skills": [
+        "WordPress",
+        "HTML/CSS Basics",
+        "Design Principles",
+        "Problem Solving",
+        "Client Communication"
+      ]
+    },
+    {
+      "title": "Computer Hardware & Networking Assistant",
+      "matchPercent": 75,
+      "description": "Help fix computer problems, set up networks, and maintain computer systems for homes or small offices. This is a hands-on tech role with local demand.",
+      "avgSalary": "₹8,000 - ₹18,000 per month (starting)",
+      "skills": [
+        "Computer Hardware",
+        "Basic Networking",
+        "Troubleshooting",
+        "Problem Solving",
+        "Customer Service"
+      ]
+    }
+  ],
+  "roadmap": [
+    {
+      "week": 1,
+      "topic": "Computer Basics & Internet Literacy",
+      "description": "Understand your computer's parts, how to use the operating system, manage files, and browse the internet safely and smartly.",
+      "durationHours": 4,
+      "tags": [
+        "ComputerBasics",
+        "InternetSafety",
+        "DigitalLiteracy"
+      ],
+      "resources": [
+        {
+          "title": "Introduction to Computers and Internet",
+          "type": "youtube",
+          "searchQuery": "basic computer skills for beginners in english"
+        },
+        {
+          "title": "How to Use Google Search Effectively",
+          "type": "article",
+          "searchQuery": "google search tips and tricks"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "topic": "Introduction to Digital Tools & Online Communication",
+      "description": "Learn essential online tools like email, basic word processing (Google Docs), and how to communicate clearly and professionally online.",
+      "durationHours": 4,
+      "tags": [
+        "ProductivityTools",
+        "EmailEtiquette",
+        "OnlineCommunication"
+      ],
+      "resources": [
+        {
+          "title": "Learn Google Docs for Beginners",
+          "type": "youtube",
+          "searchQuery": "google docs tutorial for beginners"
+        },
+        {
+          "title": "Email Writing Basics",
+          "type": "article",
+          "searchQuery": "how to write a professional email"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "topic": "Social Media Basics & Content Creation",
+      "description": "Explore popular social media platforms like Facebook and Instagram. Learn how to create simple, engaging posts and understand what makes content interesting.",
+      "durationHours": 5,
+      "tags": [
+        "SocialMediaMarketing",
+        "ContentCreation",
+        "DigitalMarketing"
+      ],
+      "resources": [
+        {
+          "title": "Social Media Marketing for Beginners",
+          "type": "youtube",
+          "searchQuery": "social media marketing basics tutorial"
+        },
+        {
+          "title": "Canva Tutorial for Beginners (Graphic Design)",
+          "type": "youtube",
+          "searchQuery": "canva tutorial for beginners free"
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "topic": "Introduction to Online Earning & Skill Development",
+      "description": "Discover how to use your new skills to find online work. Learn about freelancing platforms and how to keep learning and growing your tech abilities.",
+      "durationHours": 5,
+      "tags": [
+        "Freelancing",
+        "OnlineJobs",
+        "SkillDevelopment"
+      ],
+      "resources": [
+        {
+          "title": "How to Start Freelancing Online",
+          "type": "youtube",
+          "searchQuery": "how to start freelancing for beginners"
+        },
+        {
+          "title": "Top Free Online Courses for Digital Skills",
+          "type": "article",
+          "searchQuery": "free online courses digital skills"
+        }
+      ]
+    }
+  ],
+  "skillGaps": [
+    "Basic Computer Literacy",
+    "Internet Safety and Digital Etiquette",
+    "Problem-Solving (especially for tech troubleshooting)",
+    "Communication Skills (written and verbal for client interaction)",
+    "Basic Digital Tool Proficiency (e.g., office suites, email)",
+    "Self-Learning and Resourcefulness"
+  ],
+  "explanation": "Your interest in technology is a great starting point! While your current scores are average, this roadmap is designed to build foundational tech skills that are highly in demand. We'll focus on practical, hands-on learning that you can apply directly to potential careers. The suggested careers align with your interest and are realistic for the job market in rural/semi-urban India.",
+  "motivationalMessage": "Every expert was once a beginner. Your journey into technology starts now, and with consistent effort, you can achieve great things. Don't worry about your current scores; focus on learning new skills and exploring what excites you. Keep practicing, stay curious, and remember that your potential is limitless!"
+}
+```
+Gemini works!

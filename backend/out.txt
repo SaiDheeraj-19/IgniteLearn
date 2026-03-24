@@ -1,0 +1,12 @@
+Testing Firebase...
+✅ Firebase Admin SDK initialized
+Firebase works!
+Testing Gemini...
+=== GEMINI OUTPUT ===
+```json
+{
+  "careers": [
+    {
+      "title": "Digital Marketing Assistant",
+      "matchPercent": 85,
+      "description": "Learn to help local businesses promote themselves online using social media, simple ads, and online tools to reach more customers. This role is in high demand for small businesses in rural and semi-urban areas.",

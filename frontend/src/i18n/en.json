@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "quiz": "Take Quiz",
+    "logout": "Logout"
+  },
+  "landing": {
+    "hero_tag": "AI-Powered Career Guidance",
+    "hero_title": "Discover Your",
+    "hero_title_highlight": "Career Path",
+    "hero_subtitle": "Take a smart skill assessment and get your personalized AI learning roadmap — free, in your language.",
+    "cta": "Start My Assessment",
+    "cta_secondary": "See How It Works",
+    "feat1_title": "Adaptive Quiz",
+    "feat1_desc": "Questions adjust to your level. Takes only 5 minutes.",
+    "feat2_title": "AI Roadmap",
+    "feat2_desc": "Get a personalized weekly study plan built just for you.",
+    "feat3_title": "Track Progress",
+    "feat3_desc": "See how far you've come and what's next."
+  },
+  "quiz": {
+    "title": "Skill Assessment",
+    "subtitle": "Answer these questions to discover your strengths",
+    "question_of": "Question {{current}} of {{total}}",
+    "next": "Next Question",
+    "submitting": "Analyzing your results…",
+    "submit": "See My Results"
+  },
+  "results": {
+    "title": "Your Career Roadmap",
+    "generating": "Building your personalized roadmap…",
+    "careers_title": "Top Career Matches",
+    "roadmap_title": "Your Learning Plan",
+    "skill_gaps": "Skills to Develop",
+    "week": "Week",
+    "hours": "hrs",
+    "watch": "Watch",
+    "view_dashboard": "Go to Dashboard"
+  },
+  "dashboard": {
+    "title": "My Progress",
+    "welcome": "Welcome back",
+    "current_week": "Current Week",
+    "completed": "Completed",
+    "percent_done": "Overall Progress",
+    "next_step": "Next Step",
+    "mark_done": "Mark Complete",
+    "lessons_done": "Lessons Done",
+    "keep_going": "Keep going! You're doing great."
+  },
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong. Please try again.",
+    "retry": "Try Again",
+    "match": "match",
+    "back": "Back"
+  }
+}

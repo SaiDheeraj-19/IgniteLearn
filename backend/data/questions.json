@@ -1,0 +1,230 @@
+{
+  "questions": [
+    {
+      "id": "math_easy_1",
+      "domain": "math",
+      "difficulty": "easy",
+      "question": "What is 15 + 27?",
+      "options": ["40", "42", "43", "45"],
+      "correct": 1,
+      "nextIfCorrect": "math_medium_1",
+      "nextIfWrong": "math_easy_2"
+    },
+    {
+      "id": "math_easy_2",
+      "domain": "math",
+      "difficulty": "easy",
+      "question": "What is 8 × 7?",
+      "options": ["54", "56", "58", "62"],
+      "correct": 1,
+      "nextIfCorrect": "math_medium_1",
+      "nextIfWrong": null
+    },
+    {
+      "id": "math_medium_1",
+      "domain": "math",
+      "difficulty": "medium",
+      "question": "If a train travels 60 km/h for 2.5 hours, how far does it travel?",
+      "options": ["120 km", "140 km", "150 km", "160 km"],
+      "correct": 2,
+      "nextIfCorrect": "math_hard_1",
+      "nextIfWrong": "math_medium_2"
+    },
+    {
+      "id": "math_medium_2",
+      "domain": "math",
+      "difficulty": "medium",
+      "question": "What is 20% of 350?",
+      "options": ["60", "65", "70", "75"],
+      "correct": 2,
+      "nextIfCorrect": "math_hard_1",
+      "nextIfWrong": null
+    },
+    {
+      "id": "math_hard_1",
+      "domain": "math",
+      "difficulty": "hard",
+      "question": "If x² - 5x + 6 = 0, what are the values of x?",
+      "options": ["x = 1, 6", "x = 2, 3", "x = -2, -3", "x = 1, 5"],
+      "correct": 1,
+      "nextIfCorrect": null,
+      "nextIfWrong": null
+    },
+    {
+      "id": "logic_easy_1",
+      "domain": "logic",
+      "difficulty": "easy",
+      "question": "Which shape comes next? Circle, Square, Circle, Square, ___",
+      "options": ["Triangle", "Circle", "Square", "Star"],
+      "correct": 1,
+      "nextIfCorrect": "logic_medium_1",
+      "nextIfWrong": "logic_easy_2"
+    },
+    {
+      "id": "logic_easy_2",
+      "domain": "logic",
+      "difficulty": "easy",
+      "question": "If all apples are fruits, and this is an apple, then this is a ___.",
+      "options": ["Vegetable", "Grain", "Fruit", "Not sure"],
+      "correct": 2,
+      "nextIfCorrect": "logic_medium_1",
+      "nextIfWrong": null
+    },
+    {
+      "id": "logic_medium_1",
+      "domain": "logic",
+      "difficulty": "medium",
+      "question": "A is taller than B. C is shorter than A but taller than B. Who is the shortest?",
+      "options": ["A", "B", "C", "Cannot tell"],
+      "correct": 1,
+      "nextIfCorrect": "logic_hard_1",
+      "nextIfWrong": null
+    },
+    {
+      "id": "logic_hard_1",
+      "domain": "logic",
+      "difficulty": "hard",
+      "question": "If MANGO is coded as NBOIP, how is APPLE coded?",
+      "options": ["BQQMF", "BQPME", "CQQMF", "BQQNE"],
+      "correct": 0,
+      "nextIfCorrect": null,
+      "nextIfWrong": null
+    },
+    {
+      "id": "english_easy_1",
+      "domain": "english",
+      "difficulty": "easy",
+      "question": "Which word is a noun? 'The dog runs fast.'",
+      "options": ["runs", "fast", "dog", "the"],
+      "correct": 2,
+      "nextIfCorrect": "english_medium_1",
+      "nextIfWrong": "english_easy_2"
+    },
+    {
+      "id": "english_easy_2",
+      "domain": "english",
+      "difficulty": "easy",
+      "question": "Choose the correct spelling:",
+      "options": ["Recieve", "Receive", "Receve", "Receave"],
+      "correct": 1,
+      "nextIfCorrect": "english_medium_1",
+      "nextIfWrong": null
+    },
+    {
+      "id": "english_medium_1",
+      "domain": "english",
+      "difficulty": "medium",
+      "question": "Choose the best word: 'The scientist made a ___ discovery that changed the world.'",
+      "options": ["awful", "boring", "groundbreaking", "small"],
+      "correct": 2,
+      "nextIfCorrect": "english_hard_1",
+      "nextIfWrong": null
+    },
+    {
+      "id": "english_hard_1",
+      "domain": "english",
+      "difficulty": "hard",
+      "question": "Identify the error: 'Neither the students nor the teacher are ready.'",
+      "options": ["Neither", "nor", "are", "ready"],
+      "correct": 2,
+      "nextIfCorrect": null,
+      "nextIfWrong": null
+    },
+    {
+      "id": "science_easy_1",
+      "domain": "science",
+      "difficulty": "easy",
+      "question": "What is the chemical symbol for water?",
+      "options": ["WA", "H2O", "HO2", "W2O"],
+      "correct": 1,
+      "nextIfCorrect": "science_medium_1",
+      "nextIfWrong": "science_easy_2"
+    },
+    {
+      "id": "science_easy_2",
+      "domain": "science",
+      "difficulty": "easy",
+      "question": "Which planet is closest to the sun?",
+      "options": ["Venus", "Earth", "Mercury", "Mars"],
+      "correct": 2,
+      "nextIfCorrect": "science_medium_1",
+      "nextIfWrong": null
+    },
+    {
+      "id": "science_medium_1",
+      "domain": "science",
+      "difficulty": "medium",
+      "question": "What is photosynthesis?",
+      "options": [
+        "Animals eating plants",
+        "Plants making food from sunlight",
+        "Plants breathing air",
+        "Water turning into clouds"
+      ],
+      "correct": 1,
+      "nextIfCorrect": "science_hard_1",
+      "nextIfWrong": null
+    },
+    {
+      "id": "science_hard_1",
+      "domain": "science",
+      "difficulty": "hard",
+      "question": "Which of the following is an example of Newton's Third Law?",
+      "options": [
+        "A ball falling due to gravity",
+        "A rocket launching by expelling gas downward",
+        "A car moving at constant speed",
+        "A magnet attracting iron"
+      ],
+      "correct": 1,
+      "nextIfCorrect": null,
+      "nextIfWrong": null
+    },
+    {
+      "id": "creativity_easy_1",
+      "domain": "creativity",
+      "difficulty": "easy",
+      "question": "You have paper and a pen. Which would you use them to make?",
+      "options": ["A paper plane", "A shopping list", "A random doodle", "Origami art"],
+      "correct": 3,
+      "nextIfCorrect": "creativity_medium_1",
+      "nextIfWrong": "creativity_easy_2"
+    },
+    {
+      "id": "creativity_easy_2",
+      "domain": "creativity",
+      "difficulty": "easy",
+      "question": "Which job involves creating new things?",
+      "options": ["Data entry operator", "Graphic designer", "Security guard", "Cashier"],
+      "correct": 1,
+      "nextIfCorrect": "creativity_medium_1",
+      "nextIfWrong": null
+    },
+    {
+      "id": "creativity_medium_1",
+      "domain": "creativity",
+      "difficulty": "medium",
+      "question": "A company wants a new logo. What would you focus on first?",
+      "options": [
+        "Pick the most popular font",
+        "Copy a competitor's style",
+        "Understand what the company stands for",
+        "Use as many colors as possible"
+      ],
+      "correct": 2,
+      "nextIfCorrect": "creativity_hard_1",
+      "nextIfWrong": null
+    },
+    {
+      "id": "creativity_hard_1",
+      "domain": "creativity",
+      "difficulty": "hard",
+      "question": "Which design principle means 'less is more'?",
+      "options": ["Complexity", "Minimalism", "Maximalism", "Abstraction"],
+      "correct": 1,
+      "nextIfCorrect": null,
+      "nextIfWrong": null
+    }
+  ],
+  "startingQuestions": ["math_easy_1", "logic_easy_1", "english_easy_1", "science_easy_1", "creativity_easy_1"]
+}

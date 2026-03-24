@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+out.txt
+out2.txt
+out3.txt
+test-err.js
+debug.js
+.DS_Store

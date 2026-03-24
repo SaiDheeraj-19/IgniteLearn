@@ -1,0 +1,14 @@
+Testing Firebase...
+✅ Firebase Admin SDK initialized
+Firebase works!
+Testing Gemini...
+=== GEMINI OUTPUT ===
+FINISH REASON: MAX_TOKENS
+```json
+{
+  "careers": [
+    {
+      "title": "Digital Marketing Assistant",
+      "matchPercent": 85,
+      "description": "Help businesses promote their products or services online using social media, search engines, and websites. You'll learn how to reach customers digitally, which is a growing need for many local businesses.",
+      "avgSalary
